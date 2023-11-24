@@ -1,0 +1,19 @@
+body{
+    background-image: url(./New_Main_Background1_upscaled_compressed.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: 'Segoe UI Light';
+    }
+
+.title-block{ text-align: center;}
+
+.main-content
+    {
+    width: 65%;
+    background-color:azure;
+    margin-left: auto;         
+    margin-right: auto;
+    padding: 20px;
+    }
+
+h2, h3, h4{text-align: center;}
