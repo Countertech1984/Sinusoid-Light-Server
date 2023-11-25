@@ -1,6 +1,6 @@
 body{
     background-image: url(./New_Main_Background1_upscaled_compressed.jpg);
-    background-size: contain;
+    background-size: auto;
     background-attachment: fixed;
     background-repeat: no-repeat;
     font-family: 'Segoe UI Light';
