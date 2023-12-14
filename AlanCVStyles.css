@@ -6,7 +6,10 @@ body{
     font-family: 'Segoe UI Light';
     }
 
-.name-block{ text-align: center;}
+.name-block{ 
+    text-align: center;
+    padding: 20px;
+    }
 
 .main-content
     {
