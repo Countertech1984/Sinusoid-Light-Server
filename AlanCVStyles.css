@@ -6,12 +6,7 @@ body{
     font-family: 'Segoe UI Light';
     }
 
-.name-block{ 
-    text-align: center;
-    padding: 20px;
-    }
-
-.main-content
+main
     {
     width: 65%;
     background-color: LightSteelBlue;
@@ -19,5 +14,7 @@ body{
     margin-right: auto;
     padding: 20px;
     }
+
+.name-block{text-align: center;}
 
 h2, h3, h4{text-align: center;}
