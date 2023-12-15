@@ -4,7 +4,8 @@ body{
     background-attachment: fixed;
     background-repeat: no-repeat;
     font-family: 'Segoe UI Light';
-    padding: 70px;
+    padding-top: 70px;
+    padding-bottom: 70px;
     }
 
 main
