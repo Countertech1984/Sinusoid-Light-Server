@@ -22,6 +22,6 @@ main
 
 h2, h3, h4{text-align: center;}
 
-a:hover{color: white;}
-a:active{color: white;}
+a:hover{color: red;}
+a:active{color: red;}
 a:visited{color: white;}
